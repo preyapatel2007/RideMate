@@ -4,3 +4,6 @@ uploads/*
 !uploads/.gitkeep
 data/db.json
 .DS_Store
+
+.venv/
+app-js-output.txt
